@@ -35,7 +35,7 @@ MANIFEST
 consumidor_gov.csv
 claims.parquet.snappy
 
-model/*
+model/doc2vec*
 
 # Installer logs
 pip-log.txt
